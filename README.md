@@ -16,3 +16,5 @@
 </div>
 
 ----- 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A560,100:6B6142&height=120&reversal=true&section=footer"/>
