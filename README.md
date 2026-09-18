@@ -12,22 +12,25 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gbhermont&style=for-the-badge&color=F1C338&label=PROFILE+VIEWS)
-
+<a href="https://wakatime.com/@fbabce63-4ed7-460d-b0c6-9b385d3073ab">
+  <img src="https://wakatime.com/badge/user/fbabce63-4ed7-460d-b0c6-9b385d3073ab.svg?style=for-the-badge&color=c9a84c&labelColor=111111" alt="Total time coded since Sep 10 2026" />
 </div>
 
 
 ----
+
+<!-- INÍCIO -->
 <img src="images/pomba.gif" alt="Gabriel Hermont" align="right" height="330" hspace="24" />
 
-## Olá, eu sou o Gabriel Hermont! 👋
+# Olá, eu sou o Gabriel Hermont! 👋
 
-Atleticano doente e apaixonado por tecnologia desde criança, tenho me encontrado cada vez mais nesse mundo digital, no qual mergolhei de cabeça e quero nadar mais fundo a cada dia!
+Conhecido como 'Hermont', sou atleticano doente e apaixonado por tecnologia desde criança. Tenho me encontrado cada vez mais nesse mundo digital, no qual mergolhei de cabeça e quero nadar mais fundo a cada dia!
 
 Estudei no Colégio Santa Maria, em Belo Horizonte, onde tive o primeiro contato com a lógica de programação e códigos através da disciplina optativa "**Lógica e matemática computacional**". A partir dali, me encontrei e tive a certeza de qual área queria trilhar meu caminho.
 
 Estudante de **Engenharia de Software na PUC Minas – Coração Eucarístico**, atualmente no segundo período. Tenho usado cada vez mais a mistura de criatividade e conhecimento técnico para resolver problemas complexos e gerar impacto positivo no mundo real.
 
-### Curiosidades sobre o Hermont
+### Curiosidades sobre o Hermont:
 - ♠️ Gosto muito de esportes e pratico vários: academia, futebol, lutas...
 - 🏵️ Faço tudo ouvindo música
 - ♠️ Sou um grande fã de filmes e assisto novos sempre que posso
@@ -36,7 +39,6 @@ Estudante de **Engenharia de Software na PUC Minas – Coração Eucarístico**,
 <br clear="right"/>
 
 <!-- SOBRE MIM E DADOS -->
-</br>
 
 # 👾 Sobre mim
 
