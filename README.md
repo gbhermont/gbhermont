@@ -44,6 +44,24 @@ Estudante de **Engenharia de Software na PUC Minas – Coração Eucarístico**,
 
 <img align="left" height="780" style="margin-right: 30px;" src="images/aboutme.jfif" />
 
+### 📍 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.instagram.com/gbhermont/" title="Instagram"><img width="48" src="https://cdn.simpleicons.org/instagram/e8dd6f" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-hermont-19a1a73b5/" title="LinkedIn"><img width="48" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e8dd6f" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gbhermont" title="GitHub"><img width="48" src="https://cdn.simpleicons.org/github/e8dd6f" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://letterboxd.com/gbhermont/" title="Letterboxd"><img width="48" src="https://cdn.simpleicons.org/letterboxd/e8dd6f" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.last.fm/user/kibbezz" title="Last.fm"><img width="48" src="https://cdn.simpleicons.org/lastdotfm/e8dd6f" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gabrielsjh2007@gmail.com" title="E-mail"><img width="48" src="https://cdn.simpleicons.org/gmail/e8dd6f" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="48" src="https://cdn.simpleicons.org/discord/e8dd6f" title="Discord: kibbe_" />
+</p>
+
 ### 🔎 Meus objetivos
 
 Busco atuar em projetos que cada vez mais me apresentem não apenas a área de tecnologia, mas novas formas de pensar e solucionar problemas reais do mundo ao nosso redor. Foco sempre em evoluir e utilizar habilidades como o raciocínio lógico, capacidade crítica e pensar fora da caixa para atingir resultados cada vez mais surpreendentes, sempre com determinação e vontade! 
