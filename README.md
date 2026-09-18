@@ -112,4 +112,22 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Intelig
 
 <br clear="both">
 
+----
+
+<!-- EXPERIÊNCIA PROFISSIONAL -->
+# 🥀 Experiência Profissional
+
+### 💢 TechBiz Forense Digital · Jovem aprendiz em Infraestrutura
+
+<img src="https://img.shields.io/badge/Março_2026_–_Atualmente-C9A227?style=flat-square" alt="Março 2026 – Atualmente" />
+
+
+- Atualmente ocupo aposição de Jovem Aprendiz na TechBiz Forense Digital, onde tenho contato direto com servidores físicos e cloud computing baseado em AWS e Microsoft 365, englobando Azure, ambiente AD e Entra ID.
+Para além, trabalho com a gestão e controle de inventário de ativos de TI, fornecendo suporte para manutenção de software e hardware. Em conjunto à essas atividades, procuro sempre ampliar bases de conhecimento, me capacitando 
+e produzindo documentação técnica constantemente para escalar a base teórica da empresa.
+
+- No meu dia a dia, lido com atendimento ao usuário, resolução de problemas, trabalho em equipe e acompanho e aprendo sobre boas práticas em Infraestrutura.
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A560,100:6B6142&height=120&reversal=true&section=footer"/>
