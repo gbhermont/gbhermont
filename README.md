@@ -17,6 +17,23 @@
 
 
 ----
+<img src="images/pomba.gif" alt="Gabriel Hermont" align="right" height="330" hspace="24" />
+
+## Olá, eu sou o Gabriel Hermont! 👋
+
+Atleticano doente e apaixonado por tecnologia desde criança, tenho me encontrado cada vez mais nesse mundo digital, no qual mergolhei de cabeça e quero nadar mais fundo a cada dia!
+
+Estudei no Colégio Santa Maria, em Belo Horizonte, onde tive o primeiro contato com a lógica de programação e códigos através da disciplina optativa "**Lógica e matemática computacional**". A partir dali, me encontrei e tive a certeza de qual área queria trilhar meu caminho.
+
+Estudante de **Engenharia de Software na PUC Minas – Coração Eucarístico**, atualmente no segundo período. Tenho usado cada vez mais a mistura de criatividade e conhecimento técnico para resolver problemas complexos e gerar impacto positivo no mundo real.
+
+### Curiosidades sobre o Hermont
+- ♠️ Gosto muito de esportes e pratico vários: academia, futebol, lutas...
+- 🏵️ Faço tudo ouvindo música
+- ♠️ Sou um grande fã de filmes e assisto novos sempre que posso
+- 🏵️ Amo videogame e cresci jogando jogos. Os meus favoritos são Hollow Knight, FIFA, Dark Souls, dentre outros
+
+<br clear="right"/>
 
 <!-- SOBRE MIM E DADOS -->
 </br>
