@@ -63,6 +63,29 @@ Boa comunicação · Trabalho em equipe · Adaptação e Proatividade · Intelig
 
 <br clear="left"/>
 
+<!-- STATS -->
+<br>
+<table align="center">
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=gbhermont&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c&locale=en" alt="streak"/>
+      </td>
+    </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbhermont&theme=holi&animation=sequence&title_color=c9a84c&text_color=c9a84c&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Stats" width="430" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gbhermont&langs_count=8&layout=compact&locale=pt-br&cache_seconds=7200&hide_border=false&border_radius=10&border_color=c9a84c&bg_color=111111&title_color=c9a84c&text_color=e6e6e6&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" width="430" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbhermont&theme=holi&animation=sequence&title_color=c9a84c&text_color=e6e6e6&bg_color=111111&border_color=c9a84c&icon_color=c9a84c&chart_color=c9a84c" alt="GitHub Profile Details" width="880" />
+    </td>
+  </tr>
+</table>
+
 ----
 <!-- TECNOLOGIAS -->
 # 💻 Ferramentas e Tecnologias
