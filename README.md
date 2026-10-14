@@ -49,7 +49,7 @@ Estudante de **Engenharia de Software na PUC Minas – Coração Eucarístico**,
 <p align="left">
   <a href="https://www.instagram.com/gbhermont/" title="Instagram"><img width="48" src="https://cdn.simpleicons.org/instagram/e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-hermont-19a1a73b5/" title="LinkedIn"><img width="48" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e8dd6f" /></a>
+  <a href="https://www.linkedin.com/in/gbhermont/" title="LinkedIn"><img width="48" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gbhermont" title="GitHub"><img width="48" src="https://cdn.simpleicons.org/github/e8dd6f" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
